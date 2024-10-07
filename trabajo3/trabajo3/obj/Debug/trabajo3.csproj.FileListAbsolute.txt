@@ -1,0 +1,7 @@
+C:\Users\octir\source\repos\trabajo3\trabajo3\obj\Debug\trabajo3.csproj.AssemblyReference.cache
+C:\Users\octir\source\repos\trabajo3\trabajo3\obj\Debug\trabajo3.csproj.CoreCompileInputs.cache
+C:\Users\octir\source\repos\trabajo3\trabajo3\bin\Debug\trabajo3.exe.config
+C:\Users\octir\source\repos\trabajo3\trabajo3\bin\Debug\trabajo3.exe
+C:\Users\octir\source\repos\trabajo3\trabajo3\bin\Debug\trabajo3.pdb
+C:\Users\octir\source\repos\trabajo3\trabajo3\obj\Debug\trabajo3.exe
+C:\Users\octir\source\repos\trabajo3\trabajo3\obj\Debug\trabajo3.pdb
